@@ -5,7 +5,7 @@
   修改xml的iterator文件，将3改成2.
  1.2实验操作：
   进入dol/examples/example2文件夹中，修改example2.xml。将value值由3改为2.
-   ![修改后的代码截图](https://ooo.0o0.ooo/2016/11/11/5825b59f610b4.png)
+   ![](https://ooo.0o0.ooo/2016/11/11/5825b59f610b4.png)
  1.3实验结果：
   修改前是3个square 输出i^8
    !(https://ooo.0o0.ooo/2016/11/11/5825b5b466d63.png)
