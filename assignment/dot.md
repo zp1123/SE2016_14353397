@@ -2,13 +2,13 @@
 ###任务一：修改example2,让3个square模块变成2个
 **1.实验过程
 **1.1 实验方法：
-  修改xml的iterator文件，将3改成2.
+  **修改xml的iterator文件，将3改成2.
 **1.2实验操作：
- 进入dol/examples/example2文件夹中，修改example2.xml。将value值由3改为2.
-  https://ooo.0o0.ooo/2016/11/11/5825b59f610b4.png
+** 进入dol/examples/example2文件夹中，修改example2.xml。将value值由3改为2.
+  !(https://ooo.0o0.ooo/2016/11/11/5825b59f610b4.png)
 **1.3实验结果：
-修改前是3个square 输出i^8
-  https://ooo.0o0.ooo/2016/11/11/5825b5b466d63.png
+**修改前是3个square 输出i^8
+  !(https://ooo.0o0.ooo/2016/11/11/5825b5b466d63.png)
 修改后，删除掉dol/build/bin/main里面的example2文件夹，然后运行example2，输出的是i^4：
   https://ooo.0o0.ooo/2016/11/11/5825b5c9d14ed.png
 1.4 example2的DOT图：
